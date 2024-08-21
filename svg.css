@@ -3,15 +3,6 @@ body
     overflow: hidden;
 background-color:black;
 }
-#content {
-    display: none;
-}
-
-/* Optionally, you can add a style to prevent interactions */
-body.prevent-interaction {
-    pointer-events: none;
-    opacity: 0;
-}
 #svgbox
 {
     width:70vmin;
@@ -83,90 +74,6 @@ body.prevent-interaction {
             }
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 2table
-Big circle 
-clock down
-counter clock up 
-10 =20
-20=40
-30=60
-40=80
-50=100
-60=120
-70=140
-80=160
-90=180
-100=200
-110=220
-120=240
-130=260
-140=280
-180=300
-190=320
-200=340
-210=360*
 
 
 for 300=5
